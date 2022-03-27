@@ -33,7 +33,7 @@ class _HomeState extends State<Home> {
                       child: TextField(
                         controller: textEditingController,
                         decoration:
-                            const InputDecoration(hintText: "Color Serach"),
+                            const InputDecoration(hintText: "Serach Colors"),
                       ),
                     ),
                     Expanded(
